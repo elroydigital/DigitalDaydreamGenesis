@@ -17,8 +17,6 @@
     "web3-eth-contract": "^1.5.2"
   },
 
-  "homepage": "https://elroydigital/github.io/Digital-Daydream-Genesis",
-
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",
   "scripts": {
